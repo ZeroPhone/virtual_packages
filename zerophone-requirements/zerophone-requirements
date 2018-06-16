@@ -7,10 +7,10 @@ Homepage: https://github.com/ZeroPhone/virtual_packages
 Standards-Version: 3.9.2
 
 Package: zerophone-requirements
-Version: 1.1
+Version: 1.2
 Maintainer: Arsenijs Picugins <crimier@yandex.ru>
 # Pre-Depends: <comma-separated list of packages>
-Depends: zpui-requirements,esp8089,zerophone-power-management,i2c-tools,rng-tools
+Depends: zpui-requirements,esp8089,zerophone-power-management,i2c-tools,rng-tools,zerophone-ofono-config
 # Recommends: <comma-separated list of packages>
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
