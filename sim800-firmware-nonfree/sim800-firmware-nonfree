@@ -1,0 +1,12 @@
+Section: misc
+Priority: optional
+Homepage: https://github.com/ZeroPhone/virtual_packages
+Standards-Version: 3.9.2
+
+Package: sim800-firmware-nonfree
+Version: 1.0
+Maintainer: Arsenijs Picugins <crimier@yandex.ru>
+Depends: sim800c-firmware-nonfree-1418b05sim800c24
+Architecture: all
+Description: A virtual package to install the latest (or the least buggy) nonfree
+ firmware for the ZeroPhone's SIM800L modem.
